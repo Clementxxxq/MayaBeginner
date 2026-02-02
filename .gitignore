@@ -1,0 +1,9 @@
+# Maya junk
+autosave/
+temp/
+cache/
+renderData/
+
+# System
+.DS_Store
+Thumbs.db
